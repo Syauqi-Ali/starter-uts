@@ -16,4 +16,9 @@
 
 
 # *Hasil Screenshot*
+- Dashboard Telepon
+<img src="/screenshot/dashboard-telepon.png" height="350">
+- Dashboard Tablet
 <img src="/screenshot/dashboard-tablet.png" height="350">
+- Validasi Form
+<img src="/screenshot/validasi-form.png" height="350">
